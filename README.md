@@ -1,3 +1,3 @@
 # RideSharingSimulation
-# Project in Python following Objected-Oriented Principles.
-# Details are in Guide file 
+Project in Python following Objected-Oriented Principles.<br>
+Details are in Guide file. <br>
